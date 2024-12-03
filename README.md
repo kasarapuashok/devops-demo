@@ -160,6 +160,6 @@ Feel free to fork the repository and create a pull request. Contributions are al
 
 ## 📜 License
 
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
+This project is licensed under the MIT License. See the [LICENSE](MIT) file for details.
 
-#ALL THE BEST
+# ALL THE BEST
